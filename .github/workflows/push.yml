@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       model_name:
-        description: 'saadko10/instandid'
+        description: 'saadko10/instantid'
         required: true
  
 jobs:
